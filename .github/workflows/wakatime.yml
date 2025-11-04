@@ -1,0 +1,27 @@
+name: WakaTime Stats
+
+on:
+  schedule:
+    # Runs every 4 hours
+    - cron: '0 */4 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update WakaTime Stats
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Update WakaTime Stats
+        uses: athul/waka-readme@master
+        with:
+          # Note: These secrets need to be added in GitHub Settings > Secrets > Actions
+          # Warning about context access is normal until secrets are added
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          REPOSITORY: ${{ github.repository }}
+

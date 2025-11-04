@@ -1,0 +1,50 @@
+name: 3D Contribution Graph
+
+on:
+  schedule:
+    # Runs every 12 hours
+    - cron: '0 */12 * * *'
+  workflow_dispatch:
+
+jobs:
+  generate-3d-contrib:
+    name: Generate 3D Contribution Graph
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      
+      - name: Generate 3D Contribution Graph
+        uses: yoshi389111/github-profile-3d-contrib@v1.3.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+      
+      - name: Rename generated file to profile-3d-contrib.gif
+        run: |
+          # The action generates a GIF file, ensure it's named correctly
+          if [ -f "profile-3d-contrib.gif" ]; then
+            echo "File already exists with correct name"
+          else
+            # Find any GIF file in the root directory
+            GIF_FILE=$(find . -maxdepth 1 -name "*.gif" -type f | head -n 1)
+            if [ -n "$GIF_FILE" ] && [ "$GIF_FILE" != "./profile-3d-contrib.gif" ]; then
+              mv "$GIF_FILE" profile-3d-contrib.gif
+              echo "Renamed $GIF_FILE to profile-3d-contrib.gif"
+            else
+              echo "No GIF file found to rename"
+            fi
+          fi
+      
+      - name: Commit and push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add profile-3d-contrib.gif
+          git diff --staged --quiet || git commit -m "chore: update 3D contribution graph [skip ci]"
+          git push
+
