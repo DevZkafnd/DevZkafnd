@@ -27,25 +27,6 @@
 
 ---
 
-## 🎮 **GAME ZONE**
-
-<div align="center">
-
-### 🐍 **Snake Game - Live GitHub Contribution**
-
-<a href="https://github.com/DevZkafnd">
-  <img src="https://raw.githubusercontent.com/DevZkafnd/DevZkafnd/output/github-contribution-grid-snake.svg" alt="Snake Game" style="max-width: 100%;" />
-</a>
-
-<!-- Animated Game Description -->
-<div style="margin: 20px 0;">
-  <img src="https://readme-typing-svg.demolab.com/?lines=🐍%20Snake%20Game%20on%20GitHub%20Contributions;🎮%20Watch%20the%20Snake%20Eat%20Your%20Contributions;⚡%20Interactive%20%26%20Animated&font=Fira%20Code&center=true&width=600&height=40&duration=4000&pause=1000&vCenter=true&size=18&color=00ff00&backgroundColor=000000" alt="Game Description" />
-</div>
-
-</div>
-
----
-
 ## 👤 **TENTANG SAYA**
 
 <div align="center">
@@ -85,11 +66,6 @@ const zaki = new Developer();
 <!-- Animated Status Badge -->
 <div style="margin-top: 20px;">
   <img src="https://readme-typing-svg.demolab.com/?lines=🟢%20Available%20for%20Collaboration;💻%20Open%20to%20New%20Projects;🚀%20Always%20Learning&font=Fira%20Code&center=true&width=500&height=50&duration=3000&pause=1000&vCenter=true&size=20&color=00ff00&backgroundColor=000000" alt="Status" />
-</div>
-
-<!-- Animated Profile Picture with Hover Effect -->
-<div style="margin: 20px 0;">
-  <img src="https://img.shields.io/badge/👤%20Profile-DevZkafnd-00ffff?style=for-the-badge&logo=github&logoColor=000000&labelColor=000000" alt="Profile" />
 </div>
 
 </div>
@@ -172,10 +148,6 @@ const zaki = new Developer();
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevZkafnd&theme=dark&hide_border=true&bg_color=000000&title_color=00ffff&text_color=ffffff&layout=compact&langs_count=10&hide=html,css&custom_title=💻%20Top%20Languages" alt="Top Languages" />
 </a>
 
-<a href="https://github.com/DevZkafnd">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=DevZkafnd&theme=dark&hide_border=true&bg_color=000000&title_color=00ffff&text_color=ffffff&custom_title=⏰%20Coding%20Time" alt="WakaTime" />
-</a>
-
 </div>
 
 <!-- Animated Trophy -->
@@ -198,137 +170,46 @@ const zaki = new Developer();
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevZkafnd&theme=github-dark&hide_border=true&bg_color=000000&color=00ffff&line=ff00ff&point=00ff00&area=true&area_color=ffffff&title_color=ffffff&custom_title=🚀%20My%20Contribution%20Activity" alt="GitHub Activity Graph" />
 </a>
 
-<!-- Animated Contribution Calendar -->
-<div style="margin: 20px 0;">
-  <img src="https://raw.githubusercontent.com/DevZkafnd/DevZkafnd/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution" style="max-width: 100%;" />
-</div>
-
 </div>
 
 ---
 
-## 🎮 **GAME ANIMATIONS**
+## 🎨 **3D CONTRIBUTION GRAPH**
 
 <div align="center">
 
-<!-- Animated Game Zone Header -->
-<img src="https://readme-typing-svg.demolab.com/?lines=🎮%20Game%20Zone;🕹️%20Interactive%20Games;🎯%20Play%20%26%20Enjoy&font=Fira%20Code&center=true&width=500&height=50&duration=3000&pause=1000&vCenter=true&size=22&color=ffffff&backgroundColor=000000" alt="Game Zone" />
+<!-- Animated 3D Graph Header -->
+<img src="https://readme-typing-svg.demolab.com/?lines=🎨%203D%20Contribution%20Graph;🚀%20Interactive%20Visualization;⚡%20Techy%20%26%20Unique&font=Fira%20Code&center=true&width=500&height=50&duration=3000&pause=1000&vCenter=true&size=22&color=ffffff&backgroundColor=000000" alt="3D Graph" />
 
-<!-- Animated Game Stats -->
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 20px 0;">
-  <img src="https://img.shields.io/badge/🎮%20Games-4%20Active-00ff00?style=for-the-badge&logo=gamepad&logoColor=000000&labelColor=000000" alt="Games" />
-  <img src="https://img.shields.io/badge/🏆%20Champion-All%20Games-ff00ff?style=for-the-badge&logo=trophy&logoColor=000000&labelColor=000000" alt="Champion" />
-  <img src="https://img.shields.io/badge/⭐%20High%20Score-∞-00ffff?style=for-the-badge&logo=star&logoColor=000000&labelColor=000000" alt="High Score" />
-</div>
-
-### 🦖 **DINO JUMP GAME**
-
-```
-╔═══════════════════════════════════════════════════════════════╗
-║                  🦖 DINO JUMP GAME 🦖                        ║
-╠═══════════════════════════════════════════════════════════════╣
-║                                                               ║
-║                          ████████                             ║
-║                          ██    ██                             ║
-║                          ██    ██                             ║
-║                          ████████                             ║
-║                                                               ║
-║                ████      ████      ████      ████            ║
-║                ████      ████      ████      ████            ║
-║                                                               ║
-║                ████      ████      ████      ████            ║
-║                ████      ████      ████      ████            ║
-║                                                               ║
-║  Score: ∞ | High Score: ∞ | Lives: ♾️ | Status: 🏆 Champion  ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
----
-
-### 🐦 **FLAPPY BIRD GAME**
-
-```
-╔═══════════════════════════════════════════════════════════════╗
-║                    🐦 FLAPPY CODE 🐦                          ║
-╠═══════════════════════════════════════════════════════════════╣
-║                                                               ║
-║                        ████                                   ║
-║                        ████                                   ║
-║                        ████                                   ║
-║                        ████                                   ║
-║                                                               ║
-║              ████                      ████                  ║
-║              ████                      ████                  ║
-║                                                               ║
-║              ████                      ████                  ║
-║              ████                      ████                  ║
-║                                                               ║
-║  Score: ∞ | Level: MAX | Status: 🏆 Champion | Best: ∞       ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
----
-
-### 👨‍💼 **SUPER MARIO WORLD**
-
-```
-╔═══════════════════════════════════════════════════════════════╗
-║              🍄 SUPER MARIO DEV WORLD 🍄                      ║
-╠═══════════════════════════════════════════════════════════════╣
-║                                                               ║
-║  ████  ████  ████  ████  ████  ████  ████  ████  ████  ████  ║
-║  ████  ████  ████  ████  ████  ████  ████  ████  ████  ████  ║
-║                                                               ║
-║                            👨‍💼                                ║
-║                                                               ║
-║  ████  ████  ████  ████  ████  ████  ████  ████  ████  ████  ║
-║  ████  ████  ████  ████  ████  ████  ████  ████  ████  ████  ║
-║                                                               ║
-║  Level: Developer | Coins: ∞ | Lives: ♾️ | Status: 🏆 Champion ║
-╚═══════════════════════════════════════════════════════════════╝
-```
+<img src="https://github-profile-3d-contrib.vercel.app/profile/?username=DevZkafnd&theme=dracula&dimensions=8&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=false" alt="3D Contribution Graph" />
 
 </div>
 
 ---
 
-## 🎯 **GAME SCORE BOARD**
+## ⏱️ **WAKATIME CODING STATS**
 
 <div align="center">
 
-<!-- Animated Score Board Header -->
-<img src="https://readme-typing-svg.demolab.com/?lines=🎯%20Game%20Score%20Board;🏆%20Champion%20Status;⭐%20All%20Games%20Completed&font=Fira%20Code&center=true&width=500&height=50&duration=3000&pause=1000&vCenter=true&size=22&color=ffffff&backgroundColor=000000" alt="Score Board" />
+<!-- Animated WakaTime Header -->
+<img src="https://readme-typing-svg.demolab.com/?lines=⏱️%20Real%20Coding%20Time;📊%20Actual%20Editor%20Usage;🚀%20Data%20from%20Your%20IDE&font=Fira%20Code&center=true&width=500&height=50&duration=3000&pause=1000&vCenter=true&size=22&color=ffffff&backgroundColor=000000" alt="WakaTime" />
 
-<!-- Animated Score Table -->
-<div style="margin: 20px 0;">
+<!-- WakaTime Stats will be auto-updated by GitHub Actions -->
+<!-- WAKATIME:START -->
+<!-- WAKATIME:END -->
 
-| 🎮 Game | 📊 High Score | 🏆 Status | 📈 Level | ⭐ Rating |
-|---------|---------------|-----------|----------|-----------|
-| 🦖 Dino Jump | ∞ | 🏆 Champion | MAX | ⭐⭐⭐⭐⭐ |
-| 🐦 Flappy Code | ∞ | 🏆 Champion | MAX | ⭐⭐⭐⭐⭐ |
-| 👨‍💼 Mario Dev | ∞ | 🏆 Champion | MAX | ⭐⭐⭐⭐⭐ |
-| 🐍 Snake Game | ∞ | 🏆 Champion | MAX | ⭐⭐⭐⭐⭐ |
-| 💻 Coding Streak | ∞ Days | 🔥 On Fire | ∞ | ⭐⭐⭐⭐⭐ |
-
-</div>
-
-<!-- Animated Achievement Badges -->
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 20px 0;">
-  <img src="https://img.shields.io/badge/🏆-100%25%20Complete-00ff00?style=for-the-badge&logo=trophy&logoColor=000000&labelColor=000000" alt="100% Complete" />
-  <img src="https://img.shields.io/badge/🔥-On%20Fire-ff6600?style=for-the-badge&logo=fire&logoColor=ffffff&labelColor=000000" alt="On Fire" />
-  <img src="https://img.shields.io/badge/⭐-5%20Stars-ffd700?style=for-the-badge&logo=star&logoColor=000000&labelColor=000000" alt="5 Stars" />
-</div>
+<p><i>💡 Note: WakaTime stats require WakaTime API key setup in GitHub Secrets</i></p>
 
 </div>
 
 ---
 
-## 💻 **CODING ACTIVITY**
+## 💻 **CODING GOALS & ACTIVITY**
 
 <div align="center">
 
-<!-- Animated Coding Activity Header -->
-<img src="https://readme-typing-svg.demolab.com/?lines=💻%20Coding%20Goals%202024;🚀%20Always%20Learning;⚡%20Building%20Amazing%20Projects&font=Fira%20Code&center=true&width=500&height=50&duration=3000&pause=1000&vCenter=true&size=22&color=ffffff&backgroundColor=000000" alt="Coding Activity" />
+<!-- Animated Coding Goals Header -->
+<img src="https://readme-typing-svg.demolab.com/?lines=💻%20Coding%20Goals%202024;🚀%20Always%20Learning;⚡%20Building%20Amazing%20Projects&font=Fira%20Code&center=true&width=500&height=50&duration=3000&pause=1000&vCenter=true&size=22&color=ffffff&backgroundColor=000000" alt="Coding Goals" />
 
 ```
 ╔═══════════════════════════════════════════════════════════╗
@@ -354,35 +235,33 @@ const zaki = new Developer();
 
 ---
 
-## 🎨 **VECTOR ART - MINIMALIST DESIGN**
+## 🎵 **NOW PLAYING ON SPOTIFY**
 
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║                  ████████████████████                         ║
-║                  ██                  ██                       ║
-║                  ██                  ██                       ║
-║                  ██                  ██                       ║
-║                  ████████████████████                         ║
-║                  ██                  ██                       ║
-║                  ██                  ██                       ║
-║                  ██                  ██                       ║
-║                  ████████████████████                         ║
-║                                                               ║
-║        ████    ████    ████    ████    ████    ████          ║
-║        ████    ████    ████    ████    ████    ████          ║
-║                                                               ║
-║                      ZAKI AFFANDI                            ║
-║                      DEVZKAFND                                ║
-║                                                               ║
-║        ████████    ████████    ████████    ████████          ║
-║        ██    ██    ██    ██    ██    ██    ██    ██          ║
-║        ████████    ████████    ████████    ████████          ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
-```
+<!-- Animated Spotify Header -->
+<img src="https://readme-typing-svg.demolab.com/?lines=🎵%20Now%20Playing;🎶%20Live%20Music%20Status;⚡%20Real-time%20Updates&font=Fira%20Code&center=true&width=500&height=50&duration=3000&pause=1000&vCenter=true&size=22&color=ffffff&backgroundColor=000000" alt="Spotify" />
+
+<!-- Spotify Status - Auto-updated by GitHub Actions -->
+<!-- SPOTIFY:START -->
+<!-- SPOTIFY:END -->
+
+<p><i>💡 Note: Spotify status requires Spotify API credentials setup in GitHub Secrets</i></p>
+
+</div>
+
+---
+
+## 📝 **LATEST BLOG POSTS**
+
+<div align="center">
+
+<!-- Animated Blog Header -->
+<img src="https://readme-typing-svg.demolab.com/?lines=📝%20Latest%20Blog%20Posts;🚀%20Auto-updated%20Content;⚡%20Fresh%20%26%20Active&font=Fira%20Code&center=true&width=500&height=50&duration=3000&pause=1000&vCenter=true&size=22&color=ffffff&backgroundColor=000000" alt="Blog Posts" />
+
+<!-- Blog Posts - Auto-updated by GitHub Actions -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 </div>
 
