@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=DevZkafnd&desc=Full%20Stack%20Developer%20%7C%20Game%20Dev&fontAlign=50&fontAlignY=30&color=0:000000,100:2b2b2b&textBg=false&animation=twinkling&fontColor=00ffff" />
+
 <img src="https://readme-typing-svg.demolab.com/?lines=Selamat+Datang!;Zaki+Affandi+%7C+DevZkafnd;Full+Stack+Developer;Game+%26+Code+Enthusiast&font=Fira%20Code&center=true&width=450&height=60&duration=4000&pause=1000&vCenter=true&size=30&color=ffffff&backgroundColor=000000" />
 
 <!-- Animated Status Icons -->
@@ -76,6 +78,8 @@ const zaki = new Developer();
 
 <div align="center">
 
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,html,css,tailwind,nodejs,express,python,php,java,laravel,mysql,postgres,mongodb,firebase,aws,docker,linux,vscode,git,github&theme=dark" alt="Skill Icons" />
+
 ### **Frontend Development**
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 15px 0;">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
@@ -147,6 +151,16 @@ const zaki = new Developer();
 <!-- Animated Trophy -->
 <div style="margin: 20px 0;">
   <img src="https://github-profile-trophy.vercel.app/?username=DevZkafnd&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+<div style="margin: 20px 0;">
+  <img src="https://metrics.lecoq.io/DevZkafnd?template=classic&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&isocalendar=1&isocalendar.duration=half-year&languages=1&languages.colors=github&languages.threshold=0%25&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=6&lines=1&config.timezone=Asia%2FJakarta&config.twemoji=true&config.octicon=true&config.display=large" alt="GitHub Metrics" />
+  </div>
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevZkafnd&theme=github_dark" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DevZkafnd&theme=github_dark&utcOffset=7" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevZkafnd&theme=github_dark" alt="Repos per Language" />
 </div>
 
 </div>
@@ -230,6 +244,19 @@ const zaki = new Developer();
   <a href="https://devzkafnd.github.io">
     <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
+</div>
+
+</div>
+
+---
+
+## ✨ **INSPIRASI**
+
+<div align="center">
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&animation=grow_out_in" alt="Dev Quotes" />
+  <img src="https://readme-jokes.vercel.app/api?theme=dark" alt="Dev Jokes" />
 </div>
 
 </div>
