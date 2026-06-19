@@ -12,13 +12,13 @@
 
 ---
 
-<!-- STATUS BADGES — pakai shields.io static, paling reliable -->
+<!-- STATUS BADGES -->
 <div align="center">
 
-![Status](https://img.shields.io/badge/Status-Open%20to%20Collaborate-3fb950?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=0d1117)
+![Status](https://img.shields.io/badge/Status-Open%20to%20Collaborate-3fb950?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
 ![Mode](https://img.shields.io/badge/Mode-Developer%20Mode-58a6ff?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0d1117)
 ![Coffee](https://img.shields.io/badge/Fuel-Coffee%20Powered-c0682e?style=for-the-badge&logo=buymeacoffee&logoColor=white&labelColor=0d1117)
-![Location](https://img.shields.io/badge/Based%20in-Indonesia%20%F0%9F%87%AE%F0%9F%87%A9-f78166?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0d1117)
+![Location](https://img.shields.io/badge/Location-Indonesia-f78166?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0d1117)
 
 </div>
 
@@ -68,6 +68,17 @@ const devzkafnd = {
 
 <!-- GitHub Streak -->
 <img width="70%" src="https://streak-stats.demolab.com?user=DevZkafnd&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=3fb950&sideLabels=c9d1d9&dates=8b949e&stroke=58a6ff&currStreakNum=58a6ff&sideNums=c9d1d9" />
+
+</div>
+
+---
+
+## 🏆 GITHUB ACHIEVEMENTS
+
+<div align="center">
+
+<!-- GitHub Profile Summary Cards -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevZkafnd&theme=github_dark" width="100%" />
 
 </div>
 
