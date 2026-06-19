@@ -73,11 +73,19 @@ const devzkafnd = {
 
 ---
 
-## 🏆 GITHUB TROPHIES
+## 🏆 GITHUB ACHIEVEMENTS
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=DevZkafnd&theme=algolia&no-frame=true&no-bg=false&margin-w=10&column=7" alt="GitHub Trophies" />
+<img src="https://github-readme-stats.vercel.app/api?username=DevZkafnd&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=DevZkafnd&repo=DevZkafnd&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950" width="48%" />
+
+</div>
+
+<div align="center">
+
+<!-- GitHub Metrics dengan achievements -->
+<img src="https://metrics.lecoq.io/DevZkafnd?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FJakarta" width="400" />
 
 </div>
 
