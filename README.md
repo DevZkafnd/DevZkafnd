@@ -3,10 +3,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&text=DevZkafnd&desc=Full%20Stack%20Developer%20%7C%20Game%20Dev%20%7C%20Tech%20Innovator&fontAlign=50&fontAlignY=38&color=0:0a0a0a,50:0d1117,100:161b22&textBg=false&animation=twinkling&fontColor=58a6ff&descColor=3fb950&descAlignY=60&descSize=16&fontSize=50&fontAlignY=40&stroke=58a6ff&strokeWidth=1" />
 </div>
 
-<!-- TYPING ANIMATION dengan gradient background -->
+<!-- TYPING ANIMATION -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=FFFFFF&background=FF00FF00&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=80&lines=Halo+Saya+Zaki+Affandi;Full+Stack+Developer;Game+Developer;Tech+Enthusiast;Open+to+Collaborate!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&height=80&lines=Hello+I+am+Zaki+Affandi;Full+Stack+Developer;Game+Developer;Tech+Enthusiast;Always+Learning" alt="Typing Animation" />
 
 </div>
 
