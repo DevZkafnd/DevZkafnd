@@ -1,6 +1,6 @@
 <!-- HEADER WAVE TOP -->
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&text=DevZkafnd&desc=Full%20Stack%20Developer%20%7C%20Game%20Dev%20%7C%20Tech%20Innovator&fontAlign=50&fontAlignY=38&color=0:0a0a0a,50:0d1117,100:161b22&textBg=false&animation=twinkling&fontColor=58a6ff&descColor=3fb950&descAlignY=60&descSize=16&fontSize=50&fontAlignY=40&stroke=58a6ff&strokeWidth=1" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&text=ZAKI%20AFFANDI&desc=Full%20Stack%20Developer%20|%20Game%20Developer&fontAlign=50&fontAlignY=35&descAlign=50&descAlignY=55&color=gradient&customColorList=6,11,20&animation=twinkling" />
 </div>
 
 <!-- TYPING ANIMATION -->
@@ -112,49 +112,7 @@ const devzkafnd = {
 
 <div align="center">
 
-> ⚡ **Setup sekali, jalan selamanya** — jalankan workflow di bawah agar grafik 3D ini tampil otomatis
-
-<!-- Tampil setelah workflow dijalankan -->
 <img src="https://raw.githubusercontent.com/DevZkafnd/DevZkafnd/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
-
-<details>
-<summary><b>🔧 Cara Setup 3D Graph (klik untuk buka)</b></summary>
-<br/>
-
-Buat file ini di repo profil kamu: `.github/workflows/profile-3d.yml`
-
-```yaml
-name: GitHub-Profile-3D-Contrib
-
-on:
-  schedule:
-    - cron: "0 18 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
-    steps:
-      - uses: actions/checkout@v3
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: DevZkafnd
-        with:
-          MAX_REPOS: 10
-      - name: Commit & Push
-        run: |
-          git config user.email "action@github.com"
-          git config user.name "GitHub Action"
-          git add -A .
-          git commit -m "generate 3d contribution" || exit 0
-          git push
-```
-
-Lalu klik **Actions → GitHub-Profile-3D-Contrib → Run workflow**
-
-</details>
 
 </div>
 
