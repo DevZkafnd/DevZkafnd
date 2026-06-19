@@ -1,0 +1,28 @@
+name: GitHub-Profile-3D-Contrib
+
+on:
+  schedule:
+    - cron: "0 18 * * *"   # Jalan tiap hari jam 01:00 WIB
+  workflow_dispatch:        # Bisa dijalankan manual dari tab Actions
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: DevZkafnd
+        with:
+          MAX_REPOS: 10
+
+      - name: Commit & Push
+        run: |
+          git config user.email "action@github.com"
+          git config user.name "GitHub Action"
+          git add -A .
+          git commit -m "chore: generate 3d contribution graph" || exit 0
+          git push
