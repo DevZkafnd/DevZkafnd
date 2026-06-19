@@ -6,7 +6,7 @@
 <!-- TYPING ANIMATION dengan gradient background -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=FFFFFF&background=FF00FF00&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=80&lines=%F0%9F%91%8B+Halo%2C+Saya+Zaki+Affandi;%F0%9F%9A%80+Full+Stack+Developer;%F0%9F%8E%AE+Game+Developer;%E2%9A%A1+Tech+Enthusiast;%F0%9F%A4%9D+Open+to+Collaborate!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=FFFFFF&background=FF00FF00&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=80&lines=Halo+Saya+Zaki+Affandi;Full+Stack+Developer;Game+Developer;Tech+Enthusiast;Open+to+Collaborate!" alt="Typing SVG" />
 
 </div>
 
@@ -77,7 +77,21 @@ const devzkafnd = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=DevZkafnd&theme=radical&no-frame=false&no-bg=false&margin-w=8&margin-h=8&column=4&row=2" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=DevZkafnd&theme=algolia&no-frame=true&no-bg=false&margin-w=10&column=7" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+## 🐍 CONTRIBUTION SNAKE
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevZkafnd/DevZkafnd/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevZkafnd/DevZkafnd/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/DevZkafnd/DevZkafnd/output/github-snake-dark.svg" />
+</picture>
 
 </div>
 
