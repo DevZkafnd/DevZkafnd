@@ -1,15 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=DevZkafnd&desc=Full%20Stack%20Developer%20%7C%20Game%20Dev&fontAlign=50&fontAlignY=30&color=0:000000,100:2b2b2b&textBg=false&animation=twinkling&fontColor=00ffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=DevZkafnd&desc=Full%20Stack%20Developer%20%7C%20Game%20Dev&fontAlign=50&fontAlignY=35&color=0:0d0d0d,100:1a1a2e&textBg=false&animation=twinkling&fontColor=00ffff&descAlignY=55&descSize=18" />
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Selamat+Datang!;Zaki+Affandi+%7C+DevZkafnd;Full+Stack+Developer;Game+%26+Code+Enthusiast&font=Fira%20Code&center=true&width=450&height=60&duration=4000&pause=1000&vCenter=true&size=30&color=ffffff&backgroundColor=000000" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Selamat+Datang!+👋;Zaki+Affandi+|+DevZkafnd;Full+Stack+Developer;Game+%26+Code+Enthusiast;Always+Learning+%F0%9F%9A%80&font=Fira%20Code&center=true&width=500&height=60&duration=3500&pause=1000&vCenter=true&size=26&color=00ffff" />
 
-<!-- Animated Status Icons -->
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 20px 0;">
-  <img src="https://img.shields.io/badge/Status-🟢%20Coding%20Now-00ff00?style=for-the-badge&logo=github&logoColor=000000&labelColor=000000" alt="Status" />
-  <img src="https://img.shields.io/badge/Mode-👨‍💻%20Developer%20Mode-ff00ff?style=for-the-badge&logo=code&logoColor=000000&labelColor=000000" alt="Mode" />
-  <img src="https://img.shields.io/badge/Coffee-☕%20Always-8b4513?style=for-the-badge&logo=coffee&logoColor=ffffff&labelColor=000000" alt="Coffee" />
-</div>
+<br/>
+
+<!-- STATUS BADGES — reliable shields.io, tidak broken -->
+<img src="https://img.shields.io/badge/🟢_Status-Open_to_Collaborate-00ff88?style=for-the-badge&labelColor=0d0d0d" />
+&nbsp;
+<img src="https://img.shields.io/badge/💻_Mode-Developer_Mode-bf00ff?style=for-the-badge&labelColor=0d0d0d" />
+&nbsp;
+<img src="https://img.shields.io/badge/☕_Fuel-Coffee_Powered-c0682e?style=for-the-badge&labelColor=0d0d0d" />
 
 </div>
 
@@ -17,291 +19,253 @@
 
 <div align="center">
 
-# **ZAKI AFFANDI**
+# 🧑‍💻 ZAKI AFFANDI
 
-### **Full Stack Developer | Game Developer | Tech Innovator**
+### Full Stack Developer · Mobile Dev
 
-[![Profile Views](https://komarev.com/ghpvc/?username=DevZkafnd&label=Profile%20Views&color=000000&style=flat-square&logo=github)](https://github.com/DevZkafnd)
-[![Followers](https://img.shields.io/github/followers/DevZkafnd?label=Followers&color=000000&style=flat-square&logo=github)](https://github.com/DevZkafnd?tab=followers)
-[![Stars](https://img.shields.io/github/stars/DevZkafnd?label=Stars&color=000000&style=flat-square&logo=github)](https://github.com/DevZkafnd?tab=repositories)
+<br/>
+
+[![GitHub followers](https://img.shields.io/github/followers/DevZkafnd?label=Followers&style=social)](https://github.com/DevZkafnd?tab=followers)
+&nbsp;
+[![GitHub stars](https://img.shields.io/github/stars/DevZkafnd?label=Stars&style=social)](https://github.com/DevZkafnd?tab=repositories)
 
 </div>
 
 ---
 
-## 👤 **TENTANG SAYA**
+## 👤 TENTANG SAYA
 
 <div align="center">
-
-<!-- Animated Code Block -->
-<div style="position: relative; display: inline-block;">
 
 ```javascript
 class Developer {
   constructor() {
-    this.nama = "Zaki Affandi";
-    this.username = "DevZkafnd";
-    this.role = "Full Stack Developer";
-    this.lokasi = "Indonesia 🇮🇩";
-    this.skills = ["JavaScript", "React", "Node.js", "Python", "Game Dev"];
-    this.status = "🟢 Available for collaboration";
+    this.nama       = "Zaki Affandi";
+    this.username   = "DevZkafnd";
+    this.role       = "Full Stack Developer";
+    this.lokasi     = "Indonesia 🇮🇩";
+    this.skills     = ["JavaScript", "React", "Node.js", "Python", "Game Dev"];
+    this.status     = "🟢 Open to collaboration";
   }
-  
-  code() {
-    return "Building amazing applications...";
-  }
-  
-  game() {
-    return "Creating interactive games...";
-  }
-  
-  learn() {
-    return "Always learning new technologies...";
-  }
+
+  code()   { return "Building amazing applications..."; }
+  game()   { return "Creating interactive games..."; }
+  learn()  { return "Always learning new technologies..."; }
 }
 
 const zaki = new Developer();
 ```
 
-</div>
-
-<!-- Animated Status Badge -->
-<div style="margin-top: 20px;">
-  <img src="https://readme-typing-svg.demolab.com/?lines=🟢%20Available%20for%20Collaboration;💻%20Open%20to%20New%20Projects;🚀%20Always%20Learning&font=Fira%20Code&center=true&width=500&height=50&duration=3000&pause=1000&vCenter=true&size=20&color=00ff00&backgroundColor=000000" alt="Status" />
-</div>
+<br/>
+<img src="https://readme-typing-svg.demolab.com/?lines=🟢+Open+to+Collaboration;💻+Available+for+New+Projects;🚀+Always+Learning+New+Things&font=Fira%20Code&center=true&width=500&height=45&duration=3000&pause=1000&vCenter=true&size=18&color=00ff88" alt="Status Typing" />
 
 </div>
 
 ---
 
-## 🛠️ **TECH STACK**
+## 🛠️ TECH STACK
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,html,css,tailwind,nodejs,express,python,php,java,laravel,mysql,postgres,mongodb,firebase,aws,docker,linux,vscode,git,github&theme=dark" alt="Skill Icons" />
 
-### **Frontend Development**
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 15px 0;">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" /></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
-  <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000" alt="React" /></a>
-  <a href="https://vuejs.org/"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" /></a>
-  <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" /></a>
-  <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /></a>
-</div>
+<br/><br/>
 
-### **Backend Development**
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 15px 0;">
-  <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /></a>
-  <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" /></a>
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
-  <a href="https://www.php.net/"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /></a>
-  <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /></a>
-  <a href="https://laravel.com/"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" /></a>
-</div>
+**Frontend**
 
-### **Database & Cloud**
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 15px 0;">
-  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
-  <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></a>
-  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
-  <a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000000" alt="Firebase" /></a>
-  <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" /></a>
-</div>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000" />
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 
-### **Tools & DevOps**
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 15px 0;">
-  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
-  <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" /></a>
-  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
-  <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000" alt="Linux" /></a>
-</div>
+<br/><br/>
+
+**Backend**
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+
+<br/><br/>
+
+**Database & Cloud**
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+
+<br/><br/>
+
+**Tools & DevOps**
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000" />
 
 </div>
 
 ---
 
-## 📊 **GITHUB STATISTICS**
+## 📊 GITHUB STATISTICS
 
 <div align="center">
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
+<!-- GitHub Stats + Top Languages side by side -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevZkafnd&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00ffff&text_color=ffffff&icon_color=00ff88&show_icons=true&include_all_commits=true&count_private=true&custom_title=🚀+GitHub+Stats" />
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevZkafnd&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00ffff&text_color=ffffff&layout=compact&langs_count=10&custom_title=💻+Top+Languages" />
 
-<a href="https://github.com/DevZkafnd">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevZkafnd&theme=dark&hide_border=true&bg_color=000000&title_color=00ffff&text_color=ffffff&icon_color=00ff00&show_icons=true&include_all_commits=true&count_private=true&hide=issues,prs&custom_title=🚀%20GitHub%20Stats" alt="GitHub Stats" />
-</a>
+<br/><br/>
 
-<a href="https://github.com/DevZkafnd">
-  <img height="180em" src="https://github-readme-streak-stats.demolab.com/?user=DevZkafnd&theme=dark&hide_border=true&background=000000&ring=00ffff&fire=ff00ff&currStreakLabel=00ff00&sideLabels=ffffff&dates=00ffff" alt="GitHub Streak" />
-</a>
+<!-- GitHub Streak — demolab (lebih stabil dari DIO) -->
+<img src="https://streak-stats.demolab.com/?user=DevZkafnd&theme=tokyonight&hide_border=true&background=0d0d0d&ring=00ffff&fire=ff00ff&currStreakLabel=00ff88&sideLabels=ffffff&dates=00ffff&stroke=00ffff" alt="GitHub Streak" />
 
-</div>
+<br/><br/>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
-
-<a href="https://github.com/DevZkafnd?tab=repositories">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevZkafnd&theme=dark&hide_border=true&bg_color=000000&title_color=00ffff&text_color=ffffff&layout=compact&langs_count=10&hide=html,css&custom_title=💻%20Top%20Languages" alt="Top Languages" />
-</a>
-
-</div>
-
-<!-- Animated Trophy -->
-<div style="margin: 20px 0;">
-  <img src="https://github-profile-trophy.vercel.app/?username=DevZkafnd&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
-<div style="margin: 20px 0;">
-  <img src="https://metrics.lecoq.io/DevZkafnd?template=classic&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&isocalendar=1&isocalendar.duration=half-year&languages=1&languages.colors=github&languages.threshold=0%25&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=6&lines=1&config.timezone=Asia%2FJakarta&config.twemoji=true&config.octicon=true&config.display=large" alt="GitHub Metrics" />
-  </div>
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevZkafnd&theme=github_dark" alt="Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DevZkafnd&theme=github_dark&utcOffset=7" alt="Productive Time" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevZkafnd&theme=github_dark" alt="Repos per Language" />
-</div>
+<!-- GitHub Trophies — parameter yang valid -->
+<img src="https://github-profile-trophy.vercel.app/?username=DevZkafnd&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=2&column=4" alt="GitHub Trophies" />
 
 </div>
 
 ---
 
-## 📈 **ACTIVITY GRAPH**
+## 📈 ACTIVITY GRAPH
 
 <div align="center">
 
-<a href="https://github.com/DevZkafnd">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevZkafnd&theme=github-dark&hide_border=true&bg_color=000000&color=00ffff&line=ff00ff&point=00ff00&area=true&area_color=ffffff&title_color=ffffff&custom_title=🚀%20My%20Contribution%20Activity" alt="GitHub Activity Graph" />
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DevZkafnd&theme=tokyo-night&hide_border=true&bg_color=0d0d0d&color=00ffff&line=bf00ff&point=00ff88&area=true&custom_title=🚀+Contribution+Activity" alt="GitHub Activity Graph" />
 
 </div>
 
 ---
 
-## 🎨 **3D CONTRIBUTION GRAPH**
+## 🌐 3D CONTRIBUTION GRAPH
 
 <div align="center">
 
-<img src="https://github-profile-3d-contrib.vercel.app/profile/?username=DevZkafnd&theme=dracula&dimensions=8&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=false" alt="3D Contribution Graph" />
+<!-- Pakai snk / github-contribution-grid-snake yang aktif dan selalu berhasil render -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevZkafnd/DevZkafnd/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevZkafnd/DevZkafnd/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/DevZkafnd/DevZkafnd/output/github-snake-dark.svg" />
+</picture>
+
+> � Aktifkan snake animation: buka **Settings → Actions → General → Allow all actions** lalu tambahkan workflow di bawah ini ke repo `DevZkafnd`.
+
+<details>
+<summary>📋 <b>Klik untuk lihat cara setup Snake Animation (sekali setup, jalan terus)</b></summary>
+
+Buat file `.github/workflows/snake.yml` di repo profil kamu (`DevZkafnd/DevZkafnd`):
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: DevZkafnd
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>
 
 </div>
 
 ---
 
-
-## 💻 **CODING GOALS & ACTIVITY**
+## 💻 CODING GOALS 2025
 
 <div align="center">
 
 ```
-╔═══════════════════════════════════════════════════════════╗
-║  🎯 Tujuan Coding 2024                                    ║
-╠═══════════════════════════════════════════════════════════╣
-║  ✅ Belajar Framework & Teknologi Baru                    ║
-║  ✅ Berkontribusi ke Open Source                          ║
-║  ✅ Membangun Proyek yang Menakjubkan                     ║
-║  ✅ Meningkatkan Problem Solving Skills                   ║
-║  ✅ Membuat Game yang Keren                               ║
-║  ✅ Master Advanced Algorithms & Design Patterns           ║
-╚═══════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════╗
+║  🎯 Target Coding 2025                                       ║
+╠══════════════════════════════════════════════════════════════╣
+║  ✅ Belajar Framework & Teknologi Baru                       ║
+║  ✅ Berkontribusi ke Open Source                             ║
+║  ✅ Membangun Proyek yang Menakjubkan                        ║
+║  ✅ Meningkatkan Problem Solving Skills                      ║
+║  ✅ Membuat Game yang Keren                                  ║
+║  ✅ Master Advanced Algorithms & Design Patterns              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
-<!-- Animated Progress Bars -->
-<div style="margin: 20px 0; text-align: center;">
-  <img src="https://img.shields.io/badge/📚%20Learning-100%25-00ff00?style=for-the-badge&logo=book&logoColor=000000&labelColor=000000" alt="Learning" />
-  <img src="https://img.shields.io/badge/💻%20Coding-100%25-00ffff?style=for-the-badge&logo=code&logoColor=000000&labelColor=000000" alt="Coding" />
-  <img src="https://img.shields.io/badge/🎮%20Game%20Dev-100%25-ff00ff?style=for-the-badge&logo=gamepad&logoColor=000000&labelColor=000000" alt="Game Dev" />
-</div>
+<img src="https://img.shields.io/badge/📚_Learning-100%25-00ff88?style=for-the-badge&labelColor=0d0d0d" />
+&nbsp;
+<img src="https://img.shields.io/badge/💻_Coding-100%25-00ffff?style=for-the-badge&labelColor=0d0d0d" />
+&nbsp;
+<img src="https://img.shields.io/badge/🎮_Game_Dev-100%25-bf00ff?style=for-the-badge&labelColor=0d0d0d" />
 
 </div>
 
 ---
 
-
-
-## 🤝 **HUBUNGI SAYA**
+## 🤝 HUBUNGI SAYA
 
 <div align="center">
 
-<!-- Social Links -->
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 20px 0;">
-  <a href="https://github.com/DevZkafnd">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/zaki-affandi">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/DevZkafnd">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://instagram.com/zaki.affandi">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:zaki.affandi@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://devzkafnd.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevZkafnd)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zaki-affandi)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DevZkafnd)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/zaki.affandi)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zaki.affandi@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://devzkafnd.github.io)
 
 </div>
 
 ---
 
-## ✨ **INSPIRASI**
+## ✨ INSPIRASI
 
 <div align="center">
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&animation=grow_out_in" alt="Dev Quotes" />
-  <img src="https://readme-jokes.vercel.app/api?theme=dark" alt="Dev Jokes" />
-</div>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quotes" />
 
 </div>
 
 ---
 
-## 🎯 **FUN FACTS**
+## 🎯 FUN FACTS
 
 <div align="center">
 
-<!-- Fun Facts List -->
-<div style="text-align: left; display: inline-block; margin: 20px 0;">
-  <div style="margin: 10px 0;">
-    <img src="https://img.shields.io/badge/🎮%20Gamer-Game%20Enthusiast-00ff00?style=flat-square&logo=gamepad&logoColor=000000&labelColor=000000" alt="Gamer" />
-    <span style="margin-left: 10px;">Suka bermain dan membuat game interaktif</span>
-  </div>
-  <div style="margin: 10px 0;">
-    <img src="https://img.shields.io/badge/💻%20Developer-Full%20Stack-00ffff?style=flat-square&logo=code&logoColor=000000&labelColor=000000" alt="Developer" />
-    <span style="margin-left: 10px;">Full Stack Developer dengan passion tinggi</span>
-  </div>
-  <div style="margin: 10px 0;">
-    <img src="https://img.shields.io/badge/☕%20Coffee-Addict-8b4513?style=flat-square&logo=coffee&logoColor=ffffff&labelColor=000000" alt="Coffee" />
-    <span style="margin-left: 10px;">Coffee addict yang selalu coding sambil minum kopi</span>
-  </div>
-  <div style="margin: 10px 0;">
-    <img src="https://img.shields.io/badge/🚀%20Goals-Building%20Apps-ff00ff?style=flat-square&logo=rocket&logoColor=000000&labelColor=000000" alt="Goals" />
-    <span style="margin-left: 10px;">Membangun aplikasi yang bermanfaat bagi banyak orang</span>
-  </div>
-  <div style="margin: 10px 0;">
-    <img src="https://img.shields.io/badge/⚡%20Fun%20Fact-24%2F7%20Coding-ffd700?style=flat-square&logo=lightning&logoColor=000000&labelColor=000000" alt="Fun Fact" />
-    <span style="margin-left: 10px;">Bisa coding 24/7 jika ada kopi dan game music</span>
-  </div>
-  <div style="margin: 10px 0;">
-    <img src="https://img.shields.io/badge/🎨%20Design-Vector%20%26%20Pixel-ff1493?style=flat-square&logo=palette&logoColor=000000&labelColor=000000" alt="Design" />
-    <span style="margin-left: 10px;">Suka membuat desain vektor dan pixel art minimalis</span>
-  </div>
-  <div style="margin: 10px 0;">
-    <img src="https://img.shields.io/badge/📚%20Learning-Always%20Learning-00bfff?style=flat-square&logo=book&logoColor=000000&labelColor=000000" alt="Learning" />
-    <span style="margin-left: 10px;">Terus belajar teknologi baru setiap hari</span>
-  </div>
-  <div style="margin: 10px 0;">
-    <img src="https://img.shields.io/badge/🌟%20Open%20Source-Contributor-ff6600?style=flat-square&logo=opensource&logoColor=000000&labelColor=000000" alt="Open Source" />
-    <span style="margin-left: 10px;">Aktif berkontribusi ke proyek open source</span>
-  </div>
-</div>
+| | |
+|---|---|
+| 🎮 **Gamer** | Suka bermain dan membuat game interaktif |
+| 💻 **Full Stack** | Developer dengan passion tinggi |
+| ☕ **Coffee Addict** | Selalu coding sambil minum kopi |
+| 🚀 **Goals** | Membangun aplikasi yang bermanfaat bagi banyak orang |
+| ⚡ **Fun Fact** | Bisa coding 24/7 jika ada kopi dan game music |
+| 🎨 **Design** | Suka membuat desain vektor dan pixel art minimalis |
+| 📚 **Learning** | Terus belajar teknologi baru setiap hari |
+| 🌟 **Open Source** | Aktif berkontribusi ke proyek open source |
 
 </div>
 
@@ -309,33 +273,32 @@ const zaki = new Developer();
 
 <div align="center">
 
-### ⭐️ **DARI [DEVZKAFND](https://github.com/DevZkafnd)**
+### ⭐️ DARI [DEVZKAFND](https://github.com/DevZkafnd)
 
-<p><strong>"Keep Coding, Keep Gaming, Keep Growing!"</strong></p>
+**"Keep Coding, Keep Gaming, Keep Growing!"**
 
 ```javascript
-while(alive) {
+while (alive) {
   code();
   game();
   coffee();
   learn();
-  repeat();
 }
 ```
 
----
+<br/>
 
+[![Made by DevZkafnd](https://img.shields.io/badge/Made_with_❤️_by-DevZkafnd-ff00ff?style=for-the-badge&logo=github&labelColor=0d0d0d)](https://github.com/DevZkafnd)
+&nbsp;
+[![Star](https://img.shields.io/badge/⭐_Star-if_you_like_it!-ffd700?style=for-the-badge&labelColor=0d0d0d)](https://github.com/DevZkafnd)
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 20px 0;">
-  <a href="https://github.com/DevZkafnd">
-    <img src="https://img.shields.io/badge/Made%20with%20❤️%20by-DevZkafnd-ff00ff?style=for-the-badge&logo=github&logoColor=000000&labelColor=000000" alt="Made with Love" />
-  </a>
-  <img src="https://img.shields.io/badge/⭐-Star%20if%20you%20like%20it-ffd700?style=for-the-badge&logo=star&logoColor=000000&labelColor=000000" alt="Star" />
-  <img src="https://img.shields.io/badge/🚀-Keep%20Growing-00ff00?style=for-the-badge&logo=rocket&logoColor=000000&labelColor=000000" alt="Keep Growing" />
-</div>
+<br/>
 
-<div style="margin: 20px 0;">
-  <img src="https://profile-counter.glitch.me/DevZkafnd/count.svg" alt="Visitor Count" />
-</div>
+<!-- VISITOR COUNT — komarev.com (paling reliable, tidak pernah mati) -->
+![Visitor Count](https://komarev.com/ghpvc/?username=DevZkafnd&style=for-the-badge&color=00ffff&label=PROFILE+VIEWS&abbreviated=true)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1a1a2e,100:0d0d0d&section=footer" />
 
 </div>
