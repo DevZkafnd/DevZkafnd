@@ -3,10 +3,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&text=DevZkafnd&desc=Full%20Stack%20Developer%20%7C%20Game%20Dev%20%7C%20Tech%20Innovator&fontAlign=50&fontAlignY=38&color=0:0a0a0a,50:0d1117,100:161b22&textBg=false&animation=twinkling&fontColor=58a6ff&descColor=3fb950&descAlignY=60&descSize=16&fontSize=50&fontAlignY=40&stroke=58a6ff&strokeWidth=1" />
 </div>
 
-<!-- TYPING ANIMATION - nama dan role bergantian -->
+<!-- TYPING ANIMATION dengan gradient background -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&height=70&lines=Halo%2C+Saya+Zaki+Affandi+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Game+Developer+%F0%9F%8E%AE;Tech+Enthusiast+%E2%9A%A1;Open+to+Collaborate+%F0%9F%A4%9D)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=FFFFFF&background=FF00FF00&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=80&lines=%F0%9F%91%8B+Halo%2C+Saya+Zaki+Affandi;%F0%9F%9A%80+Full+Stack+Developer;%F0%9F%8E%AE+Game+Developer;%E2%9A%A1+Tech+Enthusiast;%F0%9F%A4%9D+Open+to+Collaborate!" alt="Typing SVG" />
 
 </div>
 
@@ -77,11 +77,7 @@ const devzkafnd = {
 
 <div align="center">
 
-<!-- Trophy row 1 -->
-<img src="https://github-profile-trophy.vercel.app/?username=DevZkafnd&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1&column=4&rank=SSS,SS,S,AAA,AA,A,B" />
-
-<!-- Trophy row 2 -->
-<img src="https://github-profile-trophy.vercel.app/?username=DevZkafnd&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1&column=4&rank=C,UNKNOWN,SECRET" />
+<img src="https://github-profile-trophy.vercel.app/?username=DevZkafnd&theme=radical&no-frame=false&no-bg=false&margin-w=8&margin-h=8&column=4&row=2" alt="GitHub Trophies" />
 
 </div>
 
@@ -198,8 +194,15 @@ Lalu klik **Actions → GitHub-Profile-3D-Contrib → Run workflow**
 while (alive) { code(); game(); coffee(); learn(); }
 ```
 
-<!-- VISITOR COUNTER — komarev paling stabil -->
-![Profile Views](https://komarev.com/ghpvc/?username=DevZkafnd&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS&abbreviated=true&base=1000)
+<br/>
+
+<!-- DYNAMIC COUNTERS — semuanya realtime dari API -->
+<img src="https://komarev.com/ghpvc/?username=DevZkafnd&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views Counter" />
+<br/>
+<img src="https://img.shields.io/github/followers/DevZkafnd?style=for-the-badge&logo=github&label=Followers&color=blue" alt="GitHub Followers - Dynamic" />
+<img src="https://img.shields.io/github/stars/DevZkafnd?style=for-the-badge&logo=github&label=Total+Stars&color=yellow" alt="GitHub Stars - Dynamic" />
+
+<br/><br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:161b22,100:0a0a0a&section=footer&reversal=false" />
 
