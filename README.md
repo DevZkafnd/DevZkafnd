@@ -73,18 +73,6 @@ const devzkafnd = {
 
 ---
 
-## 🏆 GITHUB ACHIEVEMENTS
-
-<div align="center">
-
-<!-- Hanya stats card yang pasti jalan -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevZkafnd&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevZkafnd&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
-
-</div>
-
----
-
 ## 🐍 CONTRIBUTION SNAKE
 
 <div align="center">
